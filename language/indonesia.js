@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Eka-Bot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -781,16 +781,9 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ EkaPutra
+├ My friends
+├ 
 ╰❒ And All Support
     `
 }
@@ -848,8 +841,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Silahkan Hubungi Owner
 `
 }
 exports.tos = (ownernomer) => {
@@ -862,6 +854,12 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
+
+「 DONASI PULSA 」
+
+├ 087810007292
+├ 087819364117
+╰❒ 
 
 Contact person Owner:
 wa.me/${ownernomer}
@@ -1455,16 +1453,9 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ EkaPutra
+├ My Friends
+├ 
 ╰❒ And All Support
 `
 }
